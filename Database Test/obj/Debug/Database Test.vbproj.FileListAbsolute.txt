@@ -1,0 +1,12 @@
+D:\ABCodes\Database Test\bin\Debug\Database Test.exe.config
+D:\ABCodes\Database Test\bin\Debug\Database Test.exe
+D:\ABCodes\Database Test\bin\Debug\Database Test.pdb
+D:\ABCodes\Database Test\bin\Debug\Database Test.xml
+D:\ABCodes\Database Test\obj\Debug\Database Test.vbproj.AssemblyReference.cache
+D:\ABCodes\Database Test\obj\Debug\Database_Test.Form1.resources
+D:\ABCodes\Database Test\obj\Debug\Database_Test.Resources.resources
+D:\ABCodes\Database Test\obj\Debug\Database Test.vbproj.GenerateResource.cache
+D:\ABCodes\Database Test\obj\Debug\Database Test.vbproj.CoreCompileInputs.cache
+D:\ABCodes\Database Test\obj\Debug\Database Test.exe
+D:\ABCodes\Database Test\obj\Debug\Database Test.xml
+D:\ABCodes\Database Test\obj\Debug\Database Test.pdb
